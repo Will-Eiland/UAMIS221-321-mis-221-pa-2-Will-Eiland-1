@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Will\\Desktop\\School Files\\MIS Code\\PA2\\PA2.csproj": {}
+    "C:\\Users\\wbeil\\Desktop\\PA2\\PA2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Will\\Desktop\\School Files\\MIS Code\\PA2\\PA2.csproj": {
+    "C:\\Users\\wbeil\\Desktop\\PA2\\PA2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Will\\Desktop\\School Files\\MIS Code\\PA2\\PA2.csproj",
+        "projectUniqueName": "C:\\Users\\wbeil\\Desktop\\PA2\\PA2.csproj",
         "projectName": "PA2",
-        "projectPath": "C:\\Users\\Will\\Desktop\\School Files\\MIS Code\\PA2\\PA2.csproj",
-        "packagesPath": "C:\\Users\\Will\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Will\\Desktop\\School Files\\MIS Code\\PA2\\obj\\",
+        "projectPath": "C:\\Users\\wbeil\\Desktop\\PA2\\PA2.csproj",
+        "packagesPath": "C:\\Users\\wbeil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\wbeil\\Desktop\\PA2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Will\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\wbeil\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
